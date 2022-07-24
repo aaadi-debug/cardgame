@@ -7,7 +7,7 @@
     "devStart": "nodemon server.js",
     "start": "node server.js"
   },
-  "author": "Raghunath Prabhakar",
+  "author": "Aditya Raj Gupta",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
