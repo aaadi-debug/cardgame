@@ -10,11 +10,5 @@ A Multiplayer Poker Game that uses WebSockets
 - Passwords are **hashed** using the library bcrypt before saving
 - A confirmation email is sent to users before activating their account
 
-## Live Demo
-**You may try the game out by yourself by opening it on two different tabs & clicking the *Matchmaking* button**  
-- [https://raghu-poker-game.netlify.app/](https://raghu-poker-game.netlify.app/)
 
-## Author
-
-- [Raghunath Prabhakar](https://www.github.com/Raghuboi)
 
